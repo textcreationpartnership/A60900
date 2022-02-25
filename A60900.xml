@@ -1,0 +1,1174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The triumphs of the holy Jesus, or, A divine poem of the birth, life, death, and resurrection of our Saviour by J. Salter ...</title>
+            <author>Salter, James, 1650-1718?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 51 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60900</idno>
+            <idno type="STC">Wing S467</idno>
+            <idno type="STC">ESTC R32127</idno>
+            <idno type="EEBO-CITATION">12328060</idno>
+            <idno type="OCLC">ocm 12328060</idno>
+            <idno type="VID">59588</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60900)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59588)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1027:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The triumphs of the holy Jesus, or, A divine poem of the birth, life, death, and resurrection of our Saviour by J. Salter ...</title>
+                  <author>Salter, James, 1650-1718?</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Samuel Smith ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1692.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59588:1"/>
+            <pb facs="tcp:59588:1" rendition="simple:additions"/>
+            <p>THE TRIUMPHS OF THE Holy JESUS: OR, A DIVINE POEM OF The <hi>Birth, Life, Death,</hi> and
+<hi>Reſurrection,</hi> of our <hi>Saviour.</hi>
+            </p>
+            <p>By J. Salter <hi>formerly of St.</hi> Mary Magdalen's College <hi>in</hi> Oxon, <hi>now Vicar of St.</hi> Mary's Church <hi>in</hi> Devon.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>LICENSED,</p>
+                  <closer>
+                     <dateline>
+                        <date>
+                           <hi>Nov.</hi> 11, 1691.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Samuel Smith,</hi> at the <hi>Prince's Arms</hi> in St.
+<hi>Pauls Church-Yard,</hi> 1692.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:59588:2"/>
+            <pb facs="tcp:59588:2"/>
+            <head>TO THE Honourable and Reverend Dr. <hi>RICHARD ANSLEY,</hi> Dean of <hi>Exon.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THE Noble Favours and Encourage<g ref="char:EOLhyphen"/>ments you have vouchſaf'd me, Me<g ref="char:EOLhyphen"/>rit more than the tender of this Poem; which craves Protection under the ſha<g ref="char:EOLhyphen"/>dow of your Name; and though (as to its ſtyle) it may ſeem much beneath your Judgment and Acceptance, and I conſequently judged Guilty of Preſumpti<g ref="char:EOLhyphen"/>on and Arrogance: yet as I owe you a juſt Service, and wou'd publiſh it: I leſs fear the Cenſure of Vain-glory and Conceited<g ref="char:EOLhyphen"/>neſs, than of Ingratitude. He that doth but tacitly reſent the Candour of a true Friend, in a manner buries it: When he
+<pb facs="tcp:59588:3"/>that Proclaims it may in ſome meaſure ſeem to make ſome ſhadow of Requital, tho' not Reſtitution. Were it not for this Conſidera<g ref="char:EOLhyphen"/>tion, I might have expoſed theſe Labours to the Criticiſm and Comment of an Age, in which are too many, who undervalue moſt things, becauſe they are common; and many things becauſe they are Sacred, and ſavour of Divine Vertue and Good<g ref="char:EOLhyphen"/>neſs: However, if I have your kind Inter<g ref="char:EOLhyphen"/>pretation; I fear not the rigid one of the Times. They beg your Courteous Aſpect, which if afforded, you no leſs Crown and Honour them, than him who in all Hu<g ref="char:EOLhyphen"/>mility is,</p>
+            <closer>
+               <signed>
+                  <hi>Your obliged Servant,</hi> James Salter.</signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:59588:3"/>
+            <head>THE PREFACE TO THE READER.</head>
+            <p>THERE are ſome who zealouſly conclude it to be a kind of Sacri<g ref="char:EOLhyphen"/>ledge and Profanation, to repreſent Myſtical and Divine Matters in the Language of the Muſes; and to actuate Numbers in ſet<g ref="char:EOLhyphen"/>ting forth what is Infinite: Such may as well condemn <hi>David</hi> for uttering his Holy and Tranſcendent Ecſtaſies upon the Harp; Or <hi>Eliſha,</hi> when he ſaid, <hi>Bring me now a Min<g ref="char:EOLhyphen"/>ſtrel; and it came to paſs whilſt the Min<g ref="char:EOLhyphen"/>ſtrel
+<pb facs="tcp:59588:4"/>plaid the Hand of the Lord came upon him, and he ſaid, Thus ſaith the Lord, 2</hi> Kings, <hi>ch. 3. v. 15.</hi> Such Opinioniſts therefore ſhould be perſwaded to permit the Spirit of God to Breath through what Pipe it pleaſe, whether in a ſhrill or low Voice; and they ought to Confeſs, That all the Songs In<g ref="char:EOLhyphen"/>ſpired by him, muſt needs bear the Tincture and Complexion of their Fountain.</p>
+            <p>But the moſt clamorous Objection, is, Who may compare with God, or what Metre (be it never ſo Auguſt and Lofty) may correſpond with the moſt High? True; And yet as none may compare without Arrogance and Preſump<g ref="char:EOLhyphen"/>tion, ſo all may ſtrive to Imitate, not without Encouragement and Approbation, ſo it be done with Modeſty and Submiſſion.</p>
+            <p>If we may Credit <hi>Pindar</hi> and <hi>Heſiod,</hi> They affirm 'tis the Duty of the Muſes to ſit under the Throne of <hi>Jupiter,</hi> and there to obſerve and celebrate His Majeſty and Goodneſs. So 'tis Reaſonable, that Poetick Infuſions ſhould break forth into loud Anthems of Praiſe and Honour, to the Glory of God, in regard they could not
+<pb facs="tcp:59588:4"/>have had their Conception, but by the Contempla<g ref="char:EOLhyphen"/>tion and Senſe of His Sweet Bounty and Muni<g ref="char:EOLhyphen"/>ficence; Which made <hi>Nazianzen</hi> (a Star of more than ordinary Magnitude and Luſtre in the Greek Church) write Poems of the Genealo<g ref="char:EOLhyphen"/>gy, and Miracles of Chriſt, called by him, His <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, which when St. <hi>Baſil,</hi> his Chamber-Fel<g ref="char:EOLhyphen"/>low, had ſeen and peruſed, he gave this Character, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> As if he had ſaid, by Imitating the Singing Angels in Heaven, himſelf became an Earthly One. St. <hi>Paul</hi> by the Example of his Maſter, (who went Singing to the Mount <hi>Olivet</hi> with his Diſciples) Exhorts Chriſtians to awaken and cheriſh their Souls and Spirits, with Hymns and Pſalms and Spiritual Songs.</p>
+            <p>Thinking it therefore not worth while to Confute thoſe that ignorantly Impeach, I Commend theſe Effects of Retirement and Solitude, to thoſe who Candidly affect ſuch Poets,
+<hi>viz.</hi> To good Scholars, but eſpecially to good Chriſtians, who have overcome the Rudeneſs of Nature, by a well Diſciplin'd and Cultivated Reaſon, and Im<g ref="char:EOLhyphen"/>prov'd their Reaſons by the Acceſs and Advance<g ref="char:EOLhyphen"/>ments
+<pb facs="tcp:59588:5"/>of a Sound and well-Principled Religion; Of whom I may ſay, and conclude in the Words of <hi>Horace.</hi>
+            </p>
+            <q>
+               <l>—<hi>Quibus haec ſint qualiacun<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>
+                  </hi>
+               </l>
+               <l>
+                  <hi> Arridere velim: Dolitura ſi placeant Spe</hi>
+               </l>
+               <l>
+                  <hi> Deterius Noſtrâ</hi>—</l>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="tcp:59588:5"/>
+            <head>THE TRIUMPHS OF THE Holy Jeſus, &amp;c.</head>
+            <lg>
+               <l>I Sing His Birth, Who no Beginning had,</l>
+               <l>Yet the Beginning of all things were Made.</l>
+               <l>How God and Man, together did Embrace,</l>
+               <l>And Heaven and Earth ſalute each others Face.</l>
+               <l>I Sing the Death of Him that could not dye,</l>
+               <l>That Mortals might gain Immortallity.</l>
+               <l>Became a Curſe to make the Curſed bleſt,</l>
+               <l>I Sing how He grew high, for being depreſt,</l>
+               <l>How this Illuſtrious Planet of the Moon.</l>
+               <l>That Shot from Heaven, did back to Heaven Return.</l>
+            </lg>
+            <lg>
+               <l>O Holy Spirit, vouchſafe pure Fires to infuſe</l>
+               <l>Into my Breaſt, and teach my thoughtful Muſe.</l>
+               <l>Ye ſacred Scriptures (never fading Scrowl)</l>
+               <l>Which do Heavens treaſur'd Memory enroll,</l>
+               <l>Say, what's the Cauſe, that mercy ſhould come down,</l>
+               <l>To have the Plea of Juſtice overthrown?</l>
+               <l>That the reſenting Bowels of the Moſt High,</l>
+               <pb n="2" facs="tcp:59588:6"/>
+               <l>Shou'd ſtoop to quicken ſinful Duſt and Clay?</l>
+               <l>Cou'd ſo much ill be cauſe of ſo much good</l>
+               <l>That the Lamb God for Man ſhou'd ſhed his Blood?</l>
+               <l>O ſay! how Mercy cou'd ariſe for thoſe</l>
+               <l>Who traiterouſly againſt their Maſter roſe?</l>
+               <l>Muſt the Son dye to ſpare the Fathers foes?</l>
+            </lg>
+            <lg>
+               <l>There is a place above you Azure Plain,</l>
+               <l>Where Sun and Moon alternately do Reign,</l>
+               <l>A boundleſs Place, where ſaintly Heroes reap.</l>
+               <l>The Triumphs of their Fights, 'tis where They keep</l>
+               <l>Their everlaſting Sabbath, whilſt each wears</l>
+               <l>His Badge of Blood, all more than Conquerours,</l>
+               <l>They only Wiſh, for that They ſtill enjoy,</l>
+               <l>'Tis what cannot but feed, but cannot cloy:</l>
+               <l>Here, when that beauteous Frame that bore th' Impreſs</l>
+               <l>Of Gods own Image fell from Happineſs,</l>
+               <l>When that fair Frame which ſhin'd with every Star,</l>
+               <l>And did a Galaxy of Light appear,</l>
+               <l>Was Clouded, darkned, and deform'd by Sin,</l>
+               <l>(Whoſe Womb with numerous Plagues and Deaths did teem)</l>
+               <l>Here 'twas, that Mercy meditated Peace,</l>
+               <l>How the ſad War 'twixt God and Man did ceaſe:</l>
+               <l>Leaſt the created Univerſe ſhou'd fall</l>
+               <l>Again to nothing (it's Original.)</l>
+            </lg>
+            <lg>
+               <l>Juſtice no ſooner ſaw how Mercy ſtrove</l>
+               <l>To quell her Father's rage with Charms of Love,</l>
+               <l>But up ſhe ſtarts; and interrupts her Prayer;</l>
+               <l>Like a dire Vapour gender'd in the Air,</l>
+               <l>Riſing t'Encounter, the new riſing sun</l>
+               <l>And ſtop his Courſe, when firſt it is begun,</l>
+               <l>She was a Virgin of ſevere demean, <note place="margin">Juſtice</note>
+               </l>
+               <l>(Not blind and deaf, as fooliſhly We wean)</l>
+               <l>But like an Eagle which is not afraid</l>
+               <l>To have her piercing Eye, with Heavens try'd,</l>
+               <l>She the Deep whiſpers of the Conſcience hears,</l>
+               <l>(Such is the nimble ſharpneſs of her Ears)</l>
+               <l>One hand the Sanctuary Scales doth poiſe,</l>
+               <pb n="3" facs="tcp:59588:6"/>
+               <l>And not an Action, but ſhe ſtrictly weighs;</l>
+               <l>The other Brandiſhes a flaming Sword,</l>
+               <l>(The two-edg'd One of God's Almighty word)</l>
+               <l>That which the Cherub wav'd for <hi>Eden</hi>'s fence</l>
+               <l>When the Tranſgreſſing Pair were driven thence:</l>
+               <l>Her Summons, and dread Meſſages are born</l>
+               <l>By winged Lightning, or the rapid Storm,</l>
+               <l>About her fierce tremendous Thunders ſound,</l>
+               <l>Such as the Mountains ſhake, and rend the ground.</l>
+               <l>When ſhe but frowns, Rocks into water rowl,</l>
+               <l>Woods tremble, and wild Beaſts affrighted howl.</l>
+               <l>Two ſtony Tables ſpread before her lay</l>
+               <l>On which her Boſome lean'd more hard than they;</l>
+               <l>There written was the Score of Mans Account,</l>
+               <l>To what his Duties, and his Debts amount;</l>
+               <l>But when the Summ was read, what heart ſo great</l>
+               <l>That did not faint, and horribly retreat?</l>
+               <l>Witneſs the oft repeated Claps which roar'd</l>
+               <l>A top of <hi>Sinai,</hi> when came down the Lord,</l>
+               <l>And from his Mouth, the Law in tumults pour'd:</l>
+               <l>When <hi>Iſrael</hi> betook themſelves to flight,</l>
+               <l>Blinded with ſeeing ſo Divine a ſight;</l>
+               <l>Nor cou'd They hear; O 'twas a killing noiſe</l>
+               <l>'Twas more than Thunder, 'twas the Almighty's Voice.</l>
+            </lg>
+            <lg>
+               <l>Juſtice then bowed, and with Majeſtick ſway</l>
+               <l>Silen'd the Heavenly Senate to hear her Cry;</l>
+               <l>Dread Lord of Spirits, and all ye ſplendid Quire,</l>
+               <l>Cherubs, and Seraphs Miniſters of Fire,</l>
+               <l>Wiſe was your Counſel, which did ſo deviſe</l>
+               <l>That Man ſhou'd live, ſo diſtant from the Skies,</l>
+               <l>(Man of the lower World, the Curſe and Croſs,</l>
+               <l>A lump of Vice, a worthleſs naughty Droſs)</l>
+               <l>How ſwells this Clod? how oft with deſperate Pride</l>
+               <l>Hath he confronted, and your Thrones defi'd?</l>
+               <l>So oft I cannot hold, did I not ſpeak,</l>
+               <l>The Pavement of your Court complaints would make;</l>
+               <l>Theſe precious Stones would into Clamours break,</l>
+               <pb n="4" facs="tcp:59588:7"/>
+               <l>His Soul's your Image; trait'rous 'twas (ye Powers)</l>
+               <l>To ſtain that Face, which was the Impreſs of yours.</l>
+            </lg>
+            <lg>
+               <l>How baſely did they look, how fill'd with ſhame</l>
+               <l>When God into the bluſhing Garden came?</l>
+               <l>How ſuddenly did their new knowledge fade</l>
+               <l>When from his Voice they fled into the ſhade?</l>
+               <l>Though then bereft of ſight, His fight they fear'd,</l>
+               <l>Their guilt more to their Eyes, than he appear'd.</l>
+               <l>Alaſs, how cou'd ſuch monſtrous Crimes behold</l>
+               <l>So pure a Being? How cou'd they unfold</l>
+               <l>Their Eye-lids in the Preſence; they who gave</l>
+               <l>Themſelves to Hell, ſcorn'd Life, and choſe the Grave?</l>
+               <l>Slaves made to Satan, he the worſt of Slaves,</l>
+               <l>Who in an endleſs Chain of Burnings raves.</l>
+               <l>Vain ſubterfuge to think, that Grots and Trees</l>
+               <l>Can hide from him, who hearts and all things ſees!</l>
+               <l>They fell (and where then cou'd they find defence?</l>
+               <l>At once from Wiſdom, and from Innocence.</l>
+               <l>Theſe Parents thus, by admiring the fair Fruit,</l>
+               <l>(Which did with Luſt not with their Duty ſuit)</l>
+               <l>And truſting to the Covert of dark Groves,</l>
+               <l>(VVhere they repeated their polluted Loves)</l>
+               <l>Seem'd to be fatal Prophets, and foreſhew,</l>
+               <l>That their Poſterity the ſame wou'd do;</l>
+               <l>As ſince they have done, erected Gods of wood,</l>
+               <l>VVhich Crown'd with Lawrels, have in Temples ſtood,</l>
+               <l>And fed by Fathers with their Childrens Blood;</l>
+               <l>Thoſe ſparkling Shrines, that ſhine with Golden ſtore</l>
+               <l>(VVhich <hi>Aegypt</hi> now (as Mirrours doth behold)</l>
+               <l>Are but as Dens, where Idol Serpents creep,</l>
+               <l>Under whoſe Forms, Satan his Seat doth keep:</l>
+               <l>The Ibis, Rat, the Crocodile, the Fly,</l>
+               <l>Such are their Gods; ſuch Gods they ſtill obey.</l>
+               <l>Neither do other Nations more diſſent,</l>
+               <l>Than this from <hi>Adam</hi>'s Folly; but are bent</l>
+               <l>As much as he, 'gainſt Heaven to Rebel,</l>
+               <l>And for leſs than an Apple conſpire with Hell.</l>
+               <pb n="5" facs="tcp:59588:7"/>
+               <l>The Sun, the Moon, the Stars, the Winds, the Seas,</l>
+               <l>The Air, the Clouds are fancied Deities:</l>
+               <l>And worſe than theſe Man, and of all mankind,</l>
+               <l>The worſt are worſhip'd, and for Gods enſhrin'd.</l>
+               <l>
+                  <hi>Jove, Bacchus, Mercury,</hi> and (leaſt Delights</l>
+               <l>Shou'd not attend their Ceremonial Rights)</l>
+               <l>
+                  <hi>Juno</hi> and <hi>Venus,</hi> who alive were ſaid,</l>
+               <l>Spots of their Sex; now Goddeſſes are made.</l>
+               <l>Satan himſelf, becauſe he's underſtood</l>
+               <l>Worſe than the worſt of Men; is thought a God;</l>
+               <l>All that he ſpeaks (though all he ſpeaks are Lyes)</l>
+               <l>Thought Oracles; to him they Sacrifice:</l>
+               <l>'Tis he (who wounded All) they think abounds</l>
+               <l>With Skill and Balſome, to heal all their Wounds;</l>
+               <l>From him (although 'twas he firſt ſtruck 'em blind)</l>
+               <l>They dream, they all Illuminations find.</l>
+            </lg>
+            <lg>
+               <l>Baniſht from Earth, I here to Heaven appeal,</l>
+               <l>How can I not yours, and my Wrongs bewail?</l>
+               <l>Innumerable wrongs! whoſe vaſt Account,</l>
+               <l>Stars of all Climes, Sands of all Seas ſurmount,</l>
+               <l>Ye God and Angels, ſee how Juſtice falls,</l>
+               <l>Vengeance (too long defer'd) for Vengeance calls.</l>
+            </lg>
+            <lg>
+               <l>Were not the Heavens (in whoſe Courts I ſue)</l>
+               <l>Pure as they were created firſt by you;</l>
+               <l>The Judge (to whom I ſpeak, and urge theſe Crimes)</l>
+               <l>Not to be bribed, or ſway'd by partial Aims,</l>
+               <l>The Cauſe Tranſgreſſion, a Rebellious breach,</l>
+               <l>Juſtice the Plantiff, who doth Man impeach,</l>
+               <l>Angels the Jury, (before whom he's try'd)</l>
+               <l>The Saints my Witneſſes, and on my ſide,</l>
+               <l>Then might my Supplication be denied,</l>
+               <l>And he continue wicked and ſecure,</l>
+               <l>And might eſcape, or Tryal might endure,</l>
+               <l>The Judge might pity, and be over-ſway'd,</l>
+               <l>His ſin excuſed; or Puniſhment delay'd.</l>
+            </lg>
+            <lg>
+               <l>What Advocate will now, his Cauſe aſſume?</l>
+               <l>When I accuſe, there's for Defence no Room.</l>
+               <pb n="6" facs="tcp:59588:8"/>
+               <l>Unhappy Mortal! if he knew his Lot;</l>
+               <l>But more unhappy 'cauſe he knows it not.</l>
+            </lg>
+            <lg>
+               <l>How miſerably wou'd Earth be over-grown</l>
+               <l>With Thorns and Thiſtles; vainly till'd and ſown:</l>
+               <l>Did not your Clouds, their Fatneſs down diſtil,</l>
+               <l>Upon her Furrows, and her Valleys fill.</l>
+               <l>Did you not too much condeſcend, and bow.</l>
+               <l>Your eaſie Ears, to th' Plowmans ſelfiſh Vow;</l>
+               <l>Long might he wait, till Anguiſh fill his Heart;</l>
+               <l>Whilſt he goes ſighing with an empty Cart,</l>
+               <l>And his Fields, nought but thieviſh Cares impart.</l>
+            </lg>
+            <lg>
+               <l>The Sea enraged with boiling Billows roars,</l>
+               <l>Scurges and Buffets the infeſted ſhoars,</l>
+               <l>Yet dare Mans floating Woods with ſwelling Pride,</l>
+               <l>Defie the Storms, and Liquid Mountains ride.</l>
+               <l>How often have I ſeen th'audacious Pine,</l>
+               <l>Toſt on a boiſterous Surge with foamy Brine,</l>
+               <l>Quench the Moons Lamp; and daſh the ſtarry Plain?</l>
+               <l>Her towring Maſts, near Heavens Manſions ſoar,</l>
+               <l>Then in a trice down to the infernal Door:</l>
+               <l>And yet her Paſſengers from Vengeance fly,</l>
+               <l>Though whence it Springs, and where inflicted nigh.</l>
+            </lg>
+            <lg>
+               <l>Did not your ſandy Girdle the Ocean bind,</l>
+               <l>Oft wou'd it drown th' Earth, and Curſt mankind;</l>
+               <l>The Air wou'd flow with noiſome ſteems of Death,</l>
+               <l>Did not your Spirit medicinal Fannings breath.</l>
+               <l>Fountains and Rivers with an eager Courſe,</l>
+               <l>Wou'd to the Ocean all their Floods imburſe:</l>
+               <l>Did you not lead them wandring from their way,</l>
+               <l>And make them on the flow'ry Meadows play.</l>
+            </lg>
+            <lg>
+               <l>Was not baſe Man than Beaſts more wild, more fierce</l>
+               <l>More hard than Rocks; (if Reaſon did not pierce</l>
+               <l>His ſavage Mind) yet Senſe might him reprove,</l>
+               <l>And unto Shame, if not Repentance move:</l>
+               <l>To ſee all things, except himſelf obey;</l>
+               <l>And Senſeleſs things, to have more Senſe than he.</l>
+            </lg>
+            <lg>
+               <l>The ended, and Heavens Hierarchies ſwell,</l>
+               <pb n="7" facs="tcp:59588:8"/>
+               <l>With pious Rage, and ſin-abhorring Zeal:</l>
+               <l>Like a great Army when the Enemies near,</l>
+               <l>Waken'd at once by Valour and brave Fear;</l>
+               <l>To Arms, to Arms, they Cry; the Word, the Word.</l>
+               <l>And each or ſhakes his Spear, or draws his Sword.</l>
+               <l>God himſelf haſtens to his Magazine,</l>
+               <l>Girds him with Thunder, and graſps fighting keen,</l>
+               <l>The Stars to fight were in their Courſes ſet,</l>
+               <l>Snow, Hail, and Vapours in Battalia met.</l>
+               <l>So mighty was the Alarm Juſtice rais'd;</l>
+               <l>Juſtice that muſt be paid, or be appeas'd.</l>
+            </lg>
+            <lg>
+               <l>But as the Sun, the darker in the Night,</l>
+               <l>Returns with a more wiſh'd and grateful Light;</l>
+               <l>So Mercy vigorouſly her ſelf diſplays, <note place="margin">Mercy.</note>
+               </l>
+               <l>(Maugre what all her Siſter did adviſe)</l>
+               <l>Broke through the Cloud, and as ſhe paſs'd, it fled,</l>
+               <l>Scatter'd with Rays, which to and fro ſhe ſhed,</l>
+               <l>Rays which cou'd Dim the Suns, although he ſhone</l>
+               <l>With Light of many days Contract in One.</l>
+            </lg>
+            <lg>
+               <l>How can a Worm crawl up ſo high to trace</l>
+               <l>Her Fooſteeps, or not dazled view her Face?</l>
+               <l>Why bluſh the Roſes, why the Lillies pale?</l>
+               <l>Her beauteous Cheeks, are their Original.</l>
+               <l>Her gracious Aſpect, 'tis alone doth yield,</l>
+               <l>All the Embroider'd Gaieties of the Field,</l>
+               <l>Whatever Odours, Plants, and Flowers produce</l>
+               <l>It is her Breath, that doth them firſt diffuſe.</l>
+               <l>All what <hi>Arabia,</hi> and the wealthy Eaſt,</l>
+               <l>(The rare perfumes, that make the Phenix Neſt)</l>
+               <l>All that in Paradice it ſelf firſt grew,</l>
+               <l>Fell From her Mouth, as falls the gentle Dew;</l>
+               <l>On either hand (O venerable Sight?)</l>
+               <l>Ten thouſand Graces, her Attendants wait,</l>
+               <l>Who at her Nod, to Earth from Heaven move,</l>
+               <l>And every minute convey her Acts of Love,</l>
+               <l>Of various colour'd Plumes their wings are made,</l>
+               <l>The Rain-bows to 'em are but Typick ſhade,</l>
+               <pb n="8" facs="tcp:59588:9"/>
+               <l>As Honey from the Comb, ſo from her Lips</l>
+               <l>(Her Lips which drops of mellowed <hi>Manna</hi> ſips)</l>
+               <l>Drops ſuch a ſtream of ſweeteſt Eloquence,</l>
+               <l>As more affects the Heart, as well as Senſe,</l>
+               <l>Than dying Swans, or Tunes of <hi>Sirens</hi> Voice,</l>
+               <l>Or <hi>Sphaeres,</hi> when in a Conſort they rejoyce.</l>
+            </lg>
+            <lg>
+               <l>As a dry Land parch'd with hot Calentures,</l>
+               <l>Opens her thirſty Jaws to catch the ſhowers,</l>
+               <l>Which through her empty Veins, and Entrails ſink,</l>
+               <l>Though much befreſht, yet more ſhe ſtill wou'd drink,</l>
+               <l>So Angels, when ſhe ſpeaks ope wide their Ears,</l>
+               <l>And ſtop their Mouths, to hear the Charms of hers,</l>
+               <l>But the more they are Raviſh'd with her Song:</l>
+               <l>The more they do, to have't repeated long.</l>
+            </lg>
+            <lg>
+               <l>Upon her Breaſts, Delight takes calm Repoſe,</l>
+               <l>Thoſe milky Fountains whence all Nurture flows;</l>
+               <l>On weary Travellers (when their way they miſs,</l>
+               <l>And Boar in Deſarts where no water is)</l>
+               <l>Rivers of Pleaſure trickle down t' allay,</l>
+               <l>Fevers at once of thirſt, and of the Day.</l>
+               <l>She is the blind Mans eyes, the lame Mans feet,</l>
+               <l>The hungry's Food, the naked's Rayment meet,</l>
+               <l>The Bond-mans Liberty, the poor Mans Wealth,</l>
+               <l>The afflicted's Joy, the ſickly Patients Health:</l>
+               <l>'Tis ſhe alone the laſt Supports doth give,</l>
+               <l>And when Man dies, aſſures him he ſhall live.</l>
+            </lg>
+            <lg>
+               <l>So bright ſhe is, ſo excellently Gay,</l>
+               <l>As not to be beheld by mortal Eye;</l>
+               <l>What can the Painter, or the Poet do?</l>
+               <l>What Pencil, or what Quill, ſuch Art can ſhew?</l>
+               <l>How can frail Colours Portrait out, or Verſe</l>
+               <l>Infinite Beauty, endleſs Grace rehearſe?</l>
+               <l>(Poor empty Liveleſs ſhadows to compare,)</l>
+               <l>And ſtrive to Match with things that Matchleſs are!</l>
+            </lg>
+            <lg>
+               <l>Her upper Garment was of ſilken Lawn,</l>
+               <l>Richly beſet with Works her ſelf had drawn,</l>
+               <l>The various Scene of all the World was there,</l>
+               <pb n="9" facs="tcp:59588:9"/>
+               <l>So freſh, ſo Lively, ſo Auguſt and Fair:</l>
+               <l>As if a new created Maſs it were,</l>
+               <l>So that the raviſht Eye might be deceiv'd,</l>
+               <l>And think indeed, the Embroider'd Landskip liv'd;</l>
+               <l>The proſtrated Earth her ſelf caſt low,</l>
+               <l>And at the Goddeſs feet her Head did bow,</l>
+               <l>Rejoyc'd to kiſs them, and was juſtly proud,</l>
+               <l>To be by them <hi>(O Bleſſed burthen)</hi> trod:</l>
+               <l>(The Earth (upon whoſe Face (ſtupendous ſhew)</l>
+               <l>Crowds of mankind ſeem'd to move to and fro,</l>
+               <l>Like numerous Ants they throng'd; and like them toil'd,</l>
+               <l>(All alike buſie, ſundry ways Embroil'd.)</l>
+               <l>The Ocean (figur'd like a Rainbow's band)</l>
+               <l>Girded her ſides; ſmall Pearls were wrought for Sand,</l>
+               <l>The Silver-woven Waves ſo ſeem'd to play,</l>
+               <l>As if on them did real Sun-beams lay.</l>
+            </lg>
+            <lg>
+               <l>Air was her Mantle, and about her head,</l>
+               <l>Heaven like a gorgeous Cawl was vaſtly ſpread,</l>
+               <l>In which was intermix'd a luminous Sphere,</l>
+               <l>Of ſparkling Conſtellations here and there;</l>
+               <l>From whece ſuch clear and ſtrong Reflections came,</l>
+               <l>As if the Azure Web were in a flame.</l>
+               <l>Over her hung a Canopy of State,</l>
+               <l>(Twas the third Heaven, under which ſhe Sate)</l>
+               <l>Not made of Tiſſue, or of ſpangled Gold,</l>
+               <l>But of a ſubſtance Mortals can't behold,</l>
+               <l>Only by Angels Tongues 'tis to be told;</l>
+               <l>The Gems of Monarchs Crowns, (ſuch Gems as ſhore,</l>
+               <l>In the All-glorious Court of <hi>Solomon</hi>)</l>
+               <l>The Sparks which ſhoot from Rocks of Adamant,</l>
+               <l>The Rays which an unclouded Sun doth vaunt,</l>
+               <l>The Souls of Virgins, when they take their flight</l>
+               <l>Along the milky way; ſhine not ſo bright.</l>
+            </lg>
+            <lg>
+               <l>Mercy attended thus, and thus array'd,</l>
+               <l>To Juſtice rigid Cenſures thus reply'd;</l>
+               <l>Good God, whoſe Property 'tis to forgive,</l>
+               <l>And rather than deſtroy, to ſave alive;</l>
+               <pb n="10" facs="tcp:59588:10"/>
+               <l>Man was thy Off-ſpring, though of nothing made,</l>
+               <l>Yet when created with thy Image clad:</l>
+               <l>He had not been ſo fooliſhly beguil'd,</l>
+               <l>Had not the Serpents ſhape baſe Satan vail'd;</l>
+               <l>In State of Innocence, he fear'd no ill,</l>
+               <l>His Sin was rather a Conſtraint, than Will.</l>
+               <l>Before his Eyes were open'd, and he knew,</l>
+               <l>How to diſtinguiſh between falſe and true;</l>
+               <l>How cou'd this Heaven-born Child ſuſpect a Shaft,</l>
+               <l>Prepar'd and ſharpen'd, with dire Guile and Craft,</l>
+               <l>Brought from as far as Hell, and at him ſhot?</l>
+               <l>Hell was a place he ſurely yet knew not.</l>
+            </lg>
+            <lg>
+               <l>Cannot the Hand, which made him firſt of nought,</l>
+               <l>Cure the repented Wounds, that Sin hath wrought?</l>
+               <l>Oh! Let not Juſtice Iron Sceptre break</l>
+               <l>His bruiſed heart, let her not Terrours ſpeak.</l>
+            </lg>
+            <lg>
+               <l>He's terrified enough by his own Guilt,</l>
+               <l>Judgments enough have faln, and Blood been ſpilt.</l>
+               <l>Suffer in the Gap that I may ſtand;</l>
+               <l>And hinder the deſtroying Angel's hand.</l>
+               <l>Let me, O let me my Requeſt obtain,</l>
+               <l>To ſtand between the Living and the Slain.</l>
+               <l>If all muſt Pay that which all cannot Pay;</l>
+               <l>O firſt begin with me, and mercy ſlay:</l>
+               <l>Or if my Sacrifice will not attone,</l>
+               <l>Send from thy Boſome thy beloved Son:</l>
+               <l>Vouchſafe him a Capacity to dye,</l>
+               <l>The work is done; O view his willing Eye;</l>
+               <l>Do but Command, he's joyful to obey;</l>
+               <l>What hath Man done, that Man ſhall not undo?</l>
+               <l>Did his Foe ſlay him? He ſhall ſlay his Foe,</l>
+               <l>Hath he loſt all? He all again ſhall win.</l>
+               <l>Is Sin his Maſter? he ſhall Maſter Sin.</l>
+            </lg>
+            <lg>
+               <l>But how can my <hi>
+                     <g ref="char:V">Ʋ</g>rania</hi> undertake</l>
+               <l>To celebrate that Day the Lord did make?</l>
+               <l>The Time when Angels hover'd through the Air,</l>
+               <l>And did glad Tidings down from Heaven bear?</l>
+               <pb n="11" facs="tcp:59588:10"/>
+               <l>When in loud Carolds Anthems they proclaim'd,</l>
+               <l>Peace and Good-will from God, towards mankind?</l>
+               <l>None but their Tongues, and their's cou'd ſcarce expreſs</l>
+               <l>So great a Joy, ſo great an Happineſs;</l>
+               <l>To you a Saviour born, to you a Child,</l>
+               <l>But why, and how to ſay, their Voices fail'd,</l>
+               <l>That God immortal ſhou'd not thus diſdain</l>
+               <l>A Virgins Womb, be made a mortal Man,</l>
+               <l>The infinite, an infant of a Span;</l>
+               <l>That the eternal word (whoſe Voice cou'd break,</l>
+               <l>Cedars and Rocks) ſhou'd not be able ſpeak.</l>
+               <l>That in her Arms, his Mother cou'd him take,</l>
+               <l>Him who at once cou'd Earth and Heaven ſhake;</l>
+               <l>What a ſmall Room vouchſaft he to Lodge in,</l>
+               <l>Whom all the World before cou'd not contain?</l>
+               <l>Myſterious thing! not an hour old he was;</l>
+               <l>And yet his years did the World's date ſurpaſs,</l>
+               <l>At once a Child, and Ancient of days.</l>
+               <l>O this unſearchable, this deep Abyſs!</l>
+               <l>Who can Chaunt God's rich Mercy, and Mans Bliſs?</l>
+            </lg>
+            <lg>
+               <l>Thus Mercy over Juſtice got the ſway,</l>
+               <l>And forc'd her Sword of Vengeance drop away:</l>
+               <l>The Miniſters of God's fierce Anger bow'd,</l>
+               <l>And at her Feet their broken Weapons ſtrow'd.</l>
+            </lg>
+            <trailer>The End of the Firſt Book.</trailer>
+         </div>
+         <div n="2" type="book">
+            <pb n="12" facs="tcp:59588:11"/>
+            <head>The Second Book.</head>
+            <lg>
+               <l>NOR yet did Satan's ſubtil Malice ceaſe,</l>
+               <l>He ſaw how Mercy had confirm'd the Peace</l>
+               <l>'Twixt God and Man; and the Meſſiah come,</l>
+               <l>His Shrines deſpiſed, and Oracles ſtruck dumb;</l>
+               <l>His tempting <hi>Adam</hi> ineffectual grown,</l>
+               <l>His Kingdom upon Earth quite overthrown;</l>
+               <l>The Powers of Darkneſs in confuſion ſlain,</l>
+               <l>And Hell it ſelf in danger to be ta'en:</l>
+               <l>Grinning with Envy, made a hideous Cry,</l>
+               <l>Which witneſs'd his Affliction and diſmay:</l>
+               <l>Around he fiercely throws his baleful Eyes,</l>
+               <l>Which glow'd with a new Rage; then bellowing Crys,</l>
+               <l>With ghaſtly Shrieks, which fill the Vaults of Night,</l>
+               <l>Knawing his Snaky-twiſted Tail for ſpite:</l>
+               <l>Struck with obdurate Pride, and ſtedfaſt Hate,</l>
+               <l>He calls his black Divan, and holds debate.</l>
+            </lg>
+            <lg>
+               <l>At laſt he thus his deſperate thoughts expreſt,</l>
+               <l>And belch'd a Hell of Curſes from his Breaſt.</l>
+               <l>Am I not <hi>Lucifer</hi> the Heavens Firſt-born,</l>
+               <l>Captain of all the Stars that gild the Morn?</l>
+               <l>When I ſet up my Standard in the Air,</l>
+               <l>And led Embattel'd Seraphims to War;</l>
+               <l>When againſt Thunder bravely we march'd on,</l>
+               <l>Challeng'd Heavens King, and dared him from his Throne.</l>
+               <l>My Deeds are not forgotten, but beget</l>
+               <l>New Horrours ſtill, and make him tremble yet.</l>
+               <l>And muſt his Son, who the frail Armour wears</l>
+               <l>Of Fleſh, in whom no Comlineſs appears,</l>
+               <l>Muſt <hi>David</hi>'s Son be ſent t'oppoſe my Might,</l>
+               <l>As did his Father with <hi>Goliah</hi> fight?</l>
+               <l>And with leſs Weapons than a Sling or Stone,</l>
+               <l>Attempt to wound my Head, and ſtrike me down?</l>
+               <pb n="13" facs="tcp:59588:11"/>
+               <l>He truſts an Arm of fleſh, as if I came,</l>
+               <l>Truſting to that; not my immortal Name.</l>
+            </lg>
+            <lg>
+               <l>Since with Succeſs the firſt I did aſſail,</l>
+               <l>Why, not him they the Second <hi>Adam</hi> call?</l>
+               <l>He whom I vanquiſh'd was more perfect framed</l>
+               <l>Than this, yet cou'd not my Aſſaults withſtand.</l>
+            </lg>
+            <lg>
+               <l>It is reſolv'd! I'll try again my Skill,</l>
+               <l>And make the Man my Strength and Wiſdom feel.</l>
+               <l>More than a trifling Apple I'll preſent,</l>
+               <l>(And yet with this th' old Parents were content)</l>
+               <l>I'll bribe him with rich Gems, and pompous Sights,</l>
+               <l>With numerous Glories, and compleat Delights;</l>
+               <l>Rather than fail, I'll make him entertain</l>
+               <l>Hopes that all Kingdoms of the Earth he'll Gain:</l>
+               <l>And I his Subject, if he wou'd be mine.</l>
+            </lg>
+            <lg>
+               <l>What though it coſt a ſecond Fall, I'll try</l>
+               <l>(He cannot ſure reſiſt my ſtrong Decree)</l>
+               <l>Again my ſtrength; and what that cannot do,</l>
+               <l>Fraud ſhall deviſe; I'll ſtrike, and flatter too:</l>
+               <l>He cannot ſure hold out, the work is done;</l>
+               <l>Methinks I ſee the wretch already won.</l>
+            </lg>
+            <lg>
+               <l>So ſpake the griſly Fiend, with haughty Scorn,</l>
+               <l>And ſpeaking ſo, grew ten-fold more deform;</l>
+               <l>Thrice with his Tail he laſh'd his ſides, thrice howl'd,</l>
+               <l>And into frowns his ugly Forehead bowl'd;</l>
+               <l>Thrice grin'd, and bit his Adamantine Chains,</l>
+               <l>Whilſt his Eyes darted Torrents of Red flames.</l>
+            </lg>
+            <lg>
+               <l>Th' infernal States ſtarted and made a pauſe,</l>
+               <l>At length a deadly murmur of Applauſe</l>
+               <l>Ran through the Court, with full Aſſent they vote,</l>
+               <l>They will with him the bold Deſign promote.</l>
+            </lg>
+            <lg>
+               <l>'Twas now the time, when thirty times the Sun,</l>
+               <l>Through the twelve Signs triumphantly had run:</l>
+               <l>Since the Birth of the incarnate Deity:</l>
+               <l>(A far more univerſal Light than he.)</l>
+               <l>The Bleſſed <hi>Jeſus</hi> drawn by Heavenly Fate,</l>
+               <l>And his own Will, as a poor Deſolate,</l>
+               <pb n="14" facs="tcp:59588:12"/>
+               <l>Having a long and weary Progreſs made,</l>
+               <l>In a waſte Deſert through a pathleſs ſhade:</l>
+               <l>He kneel'd, and as he there to pray began,</l>
+               <l>The Beaſts with open Throats towards him ran:</l>
+               <l>But when they ſaw their Lords bright Cognizance,</l>
+               <l>Some to him bow, and ſome about him dance,</l>
+               <l>The Lyon charm'd forgets his angry Mood,</l>
+               <l>And welcomes <hi>Judah</hi>'s Lyon to the Wood;</l>
+               <l>Bears, Tygres, Panthers, Wolves, themſelves compoſe,</l>
+               <l>And kiſs the flowry Graſs whereon he goes.</l>
+               <l>If he ſtands ſtill, amazedly they gaze,</l>
+               <l>Fixt like tame Pourtraitures before his Face:</l>
+               <l>If walk, they walk, and where he goes, they go,</l>
+               <l>And ever with obliging Looks purſue.</l>
+               <l>If Cares permit him gentle Slumbers ſnatch,</l>
+               <l>They ſtand around, and take their Turns to watch;</l>
+               <l>And leſt himſelf ſhou'd a rich Prey become,</l>
+               <l>They ſuffer hunger, and neglect their own.</l>
+               <l>Upon a Primroſe Hillock he was laid,</l>
+               <l>Over his Head bright Olive Branches laid,</l>
+               <l>Whoſe leaves were here and there ſo finely ſpread,</l>
+               <l>As if they Ambitious were to Crown his Head;</l>
+               <l>(His ſacred Head, who was the Prince of Peace,</l>
+               <l>The more he lay, the more ſhe did encreaſe)</l>
+               <l>His Hair was black, black as the Ravens wings,</l>
+               <l>Flowing down to his Shoulders in curl'd Rings:</l>
+               <l>Which as a ſhadow did his Beauty ſhrowd;</l>
+               <l>For ſhelter there did all the Graces crowd.</l>
+            </lg>
+            <lg>
+               <l>O may my Soul be wounded evermore,</l>
+               <l>By his Sweet Eyes; I'll think the Wounds not fore,</l>
+               <l>Though I were Sick with Love, though with it ſlain,</l>
+               <l>I would embrace the Stroak and not repine:</l>
+               <l>To Languiſh thus in Health, 'tis Life to dye;</l>
+               <l>(Endleſs the Health, the Life Eternity.)</l>
+            </lg>
+            <lg>
+               <l>Beauty with State was on his Forehead fixt,</l>
+               <l>And on his Cheeks, Lillies with Roſes mix'd:</l>
+               <l>Never vain Laughter on his Face did riſe;</l>
+               <l>Though all the Smiles of Joy, danc'd in his Eyes.</l>
+               <pb n="15" facs="tcp:59588:12"/>
+               <l>No Silk or Gold (the Fopperies of Pride)</l>
+               <l>Compos'd a Garment for his Royal ſide:</l>
+               <l>A Lamb he was, and what a Lamb doth bear,</l>
+               <l>Wove with one Thread, he not disdain'd to wear.</l>
+            </lg>
+            <lg>
+               <l>The Silver Moon now twice had bent her bow,</l>
+               <l>And ſhot her Shafts upon the Earth below;</l>
+               <l>Since in the Wilderneſs the diſguis'd God,</l>
+               <l>Retir'd from Man's view, had kept abode,</l>
+               <l>The Heavens his Roof, Arbours his Coverts were,</l>
+               <l>No Fruit to eat, to drink no Waters there,</l>
+               <l>The Ground his Bed, his Pillow was the Graſs:</l>
+               <l>Whilſt Angels ſoar'd aloft to guard the Place.</l>
+            </lg>
+            <lg>
+               <l>At length an Aged Sire far off he ſaw</l>
+               <l>Towards him ſlowly on two Crutches draw;</l>
+               <l>His Head with Snow of Age, was waxen hoar,</l>
+               <l>About his Shoulders a torn Mantle wore,</l>
+               <l>And all the way he went, he caſt his Eyes,</l>
+               <l>With a devout Erection to the Skies:</l>
+               <l>Whilſt from his mouth, Bleſſings and Prayers flowed,</l>
+               <l>Which with ſpread Hands, he on the Woods beſtowed:</l>
+               <l>A good old Anchorite he ſeem'd to be,</l>
+               <l>Travelling a Pilgrimage ſome Saint to ſee,</l>
+               <l>But when he nearer came, he bended low,</l>
+               <l>And at his Feet his Head did humbly throw;</l>
+               <l>Then roſe, and thrice again obeyſance paid;</l>
+               <l>And thus, with ſmooth and ſawning Phraſe he ſaid,</l>
+               <l>Ah me! how many doleful years have been,</l>
+               <l>Since theſe dear Eyes you gliſtering Sun hath ſeen?</l>
+               <l>But now a more illuſtrious one they ken.</l>
+               <l>Ah! may my homely Cell ſo Bleſſed be,</l>
+               <l>To be the Temple of thy Deity:</l>
+               <l>Loe how it ſeems to worſhip thee indeed,</l>
+               <l>Whilſt under Ground 'tis at thy Preſence hid;</l>
+               <l>There Honey, Milk and Cheſnuts, ſhall thee feed.</l>
+               <l>Here in this Deſert (Oh he deeply ſigh'd)</l>
+               <l>Are all ſupports for Natures Cry denied,</l>
+               <pb n="16" facs="tcp:59588:13"/>
+               <l>The Heavens (alas) are here not to be won:</l>
+               <l>or Stones and Bryars grow, where Corn was ſown.</l>
+               <l>But thou canſt even theſe Stones convert to Bread,</l>
+               <l>And by thy own without God's power be fed:</l>
+               <l>What need we then his unjuſt Anger fear?</l>
+               <l>Let him ſtill Envy, ſo we have thee here.</l>
+            </lg>
+            <lg>
+               <l>Ere long they came near to a baleful Cave, <note place="margin">Deſpair.</note>
+               </l>
+               <l>Dark as the Bottom of the deepeſt Grave,</l>
+               <l>The Ground no Plants, but venomous did bear,</l>
+               <l>A Grove of ragged Truncks, and ſtumps were near,</l>
+               <l>From whence a Leaf, not ſprouted all the Year:</l>
+               <l>About dry Bones, and ſtinking Skulls were ſpread,</l>
+               <l>Spew'd from the ſquallid Manſions of the Dead;</l>
+               <l>Upon the top ſate ſtill the ghaſtly Owl,</l>
+               <l>And drove with baleful Notes all other Fowl,</l>
+               <l>Except the leather, ſail'd, and flut'ring Batt</l>
+               <l>Which ſometimes blindly floated, ſometimes ſat.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>A</hi> little diſtance on a Craggy ſtone,</l>
+               <l>
+                  <hi>Celeno</hi> hung, and made a diſmal Moan;</l>
+               <l>Whilſt murder'd Ghoſts about did ſhriek and groan.</l>
+               <l>Like Cloudy Moon-ſhine in a ſhady Grove,</l>
+               <l>Such was the Light, in which Deſpair did move;</l>
+               <l>But ſhe her ſelf dark, as the Nights Abyſs,</l>
+               <l>In which no Joy, no hope of Comfort is:</l>
+               <l>Her foul uncombed Locks, like parched Hay,</l>
+               <l>In clots along her Face diſhevell'd lay;</l>
+               <l>Her Eyes ſunk in her Skull, did ſtaring glow,</l>
+               <l>Whoſe glimpſe did like the Cocatrices ſhow;</l>
+               <l>Which deadly look'd, and Sparks of horrour throw,</l>
+               <l>Her Cloaths were ragged Clowts, with Thorns pin'd faſt;</l>
+               <l>
+                  <hi>A</hi> Shaſh of Shipwreck'd Canvas round her waſte,</l>
+               <l>Now ſhe wou'd dream from Heaven ſhe headlong fell,</l>
+               <l>Deeper and deeper ſinking down to Hell,</l>
+               <l>And then wou'd ſnatch the Air, afraid to fall,</l>
+               <l>And then wou'd graſp the Earth, then trembling crawl,</l>
+               <l>And ever as ſhe crept, wou'd ſquint aſide,</l>
+               <l>Leſt by the Furies, ſhe ſhou'd be eſpy'd,</l>
+               <l>And ſo in everlaſting Chains abide;</l>
+               <pb n="17" facs="tcp:59588:13"/>
+               <l>Then wou'd ſhe fanſie how ſhe ſhrunk away,</l>
+               <l>Not daring breath for Terrour all the way,</l>
+               <l>Till back ſhe had retired to her Den;</l>
+               <l>Now ſhe wou'd wake, then ſleep, and dream agen.</l>
+            </lg>
+            <lg>
+               <l>Within the gloomy Hole of this pale-Wight,</l>
+               <l>Satan with Charms, our Saviour did invite:</l>
+               <l>But under ſpecious Baits a Fine-wrought Grin,</l>
+               <l>Was ſet to take him in the Jaws of Sin:</l>
+               <l>But he replyed, That Gods immortal Word</l>
+               <l>Not Bread alone did Suſtenance afford.</l>
+            </lg>
+            <lg>
+               <l>From thence the Tempter, by new Motives led,</l>
+               <l>Catch'd him aloft, and to the Temple fled:</l>
+               <l>And now upon the Pinacles they met,</l>
+               <l>(Fair <hi>Salems</hi> Walls, and Streets before 'em ſet)</l>
+               <l>Here fond Preſumption (midſt a flatt'ring Throng <note place="margin">Preſumption.</note>
+               </l>
+               <l>Of <hi>Sirens,</hi> which conceited <hi>Anthems</hi> ſung.)</l>
+               <l>Spread her Pavilion, Canopy'd with Stars:</l>
+               <l>Preſumption which affronts, and Juſtice dares,</l>
+               <l>Depends on Merit, Mercy, Love and Grace;</l>
+               <l>
+                  <hi>Narciſſus</hi> like, is Charm'd with her own Face:</l>
+               <l>(A Face with Vermile Paint ſtill over-laid</l>
+               <l>By hope, her buſie fooliſh waiting Maid.)</l>
+            </lg>
+            <lg>
+               <l>She in one hand a gilded Anchor bore,</l>
+               <l>Plac'd not on Rocks, but on a ſandy Shoar,</l>
+               <l>And there not fix'd, but waver'd on the brim,</l>
+               <l>She let it to and fro ſecurely ſwim.</l>
+               <l>I'th other hand Saints Merits, and her own,</l>
+               <l>Pardons, and groſs Indulgences were ſhewn;</l>
+               <l>Like Ships, which whilſt the Waters ſlumber; ride</l>
+               <l>Without a Ballance, or the Pilots guide:</l>
+               <l>Their ſwelling Streams looſly they let Play,</l>
+               <l>And 'long the Ocean cut their pompous Way:</l>
+               <l>But ſoon as Heaven with ſtormy Threats doth frown,</l>
+               <l>Their giddy Flags are furl'd, and taken down;</l>
+               <l>Right ſo Preſumption doth her ſelf behave,</l>
+               <l>Proud whilſt the Stars a proſp'rous influence have</l>
+               <l>But ſinks at every Storm, and adverſe Wave;</l>
+               <pb n="18" facs="tcp:59588:14"/>
+               <l>She in white Lawn arrayed, and winged too,</l>
+               <l>(Winged like an Angel) to our Saviour flew,</l>
+               <l>Boldly ſhe came, but gently beg'd to know,</l>
+               <l>Whether he were the Son of God or no?</l>
+               <l>I find thou art, ſhe to her ſelf Replyed,</l>
+               <l>Then to caſt down thy ſelf be not afraid:</l>
+               <l>Behold a Troop of truſty Angels wait</l>
+               <l>Along the Air to intercept thy Flight;</l>
+               <l>Leſt to the Ground thou ſhou'dſt be rudely thrown,</l>
+               <l>And daſh thy tender Foot againſt a ſtone.</l>
+            </lg>
+            <lg>
+               <l>But when ſhe found her Speech cou'd nought prevail,</l>
+               <l>Thruſt on with Rage, ſhe her ſelf Head-long fell;</l>
+               <l>But him the Angels on their Feathers caught,</l>
+               <l>And to an Airy Mountain nimbly brought;</l>
+               <l>Not the fam'd Ida might with this compare,</l>
+               <l>Not <hi>Hybla, Rhodope,</hi> ſo pleaſant were,</l>
+               <l>
+                  <hi>Atlas, Olympus</hi> not ſo high and fair:</l>
+               <l>
+                  <hi>Adonis</hi> Garden was to this but vain,</l>
+               <l>Though <hi>Plato</hi> on it Floods of Praiſe did rain.</l>
+               <l>Here Nature had the ground bedamask'd o'er,</l>
+               <l>With all her Ornaments and Flowry ſtore;</l>
+               <l>Here ſhe had Lillies, Roſes, Violets ſhed,</l>
+               <l>Whoſe Sight the yeilding Senſes Captive led;</l>
+               <l>Here the rich Bower of vain Delight was built,</l>
+               <l>With Marigolds, and ſtreaky Tulips gilt.</l>
+            </lg>
+            <lg>
+               <l>Upon this pompous Hill, Ambition ſate, <note place="margin">Ambition.</note>
+               </l>
+               <l>In a Majeſtick Chair of ſplendid State,</l>
+               <l>An hundred Kings about her were Enſtal'd,</l>
+               <l>Whoſe Temples were with Diadems impal'd;</l>
+               <l>Their Scepters with bright Pearls and Diamonds ſhone,</l>
+               <l>Each in his Robes ſate on a Chryſtal Throne.</l>
+            </lg>
+            <lg>
+               <l>Hither when Satan came he tuned his Tongue,</l>
+               <l>And thus he ſoftly woed, and thus he ſung;</l>
+               <l>See hence both <hi>Indies,</hi> ſee hence all the Ore</l>
+               <l>That flows in <hi>Tagus</hi> or <hi>Pactolus</hi> Shoar;</l>
+               <l>See how thick Corn Millions of Valleys fills,</l>
+               <l>Numberleſs Cattle on ten thouſand Hills;</l>
+               <pb n="19" facs="tcp:59588:14"/>
+               <l>Every Grape of every choiceſt Vine,</l>
+               <l>Rejoyces to be preſt to drop me Wine,</l>
+               <l>Princes and Potentates are proud to gain</l>
+               <l>The Leave and Honour to hold up my Train;</l>
+               <l>All this and more, I will devote to thee,</l>
+               <l>Only (my <hi>Jeſus</hi>) bow and worſhip me.</l>
+            </lg>
+            <lg>
+               <l>The Grand Enchanter thought ſo vaſt a Scene</l>
+               <l>of Kingdoms Glories, Pleaſures which were ſeen</l>
+               <l>Cou'd not but faſcinate the pureſt Eye:</l>
+               <l>And God (to quit his own for theſe) betray.</l>
+               <l>But thrice Repulſt, away the curſed Spright,</l>
+               <l>Aſham'd, and griev'd, with fury took his Flight,</l>
+               <l>But to their Lord (muſing with pious Thought)</l>
+               <l>The Angels Comfort, and a Banquet brought;</l>
+               <l>And as he fed the Miniſtring Quires combine,</l>
+               <l>To ſing an Hymn of the Almighty Trine:</l>
+               <l>The joyful Birds attuned their warmbling Layes,</l>
+               <l>Attemper'd to the Angels ſounding Praiſe,</l>
+               <l>And to the Birds, the Winds lift up their Voice,</l>
+               <l>To them the Waters call, and Floods rejoyce:</l>
+               <l>The Mountains skipt like Rams, the Rocks did dance,</l>
+               <l>All joyn'd their Maſters Triumph to advance.</l>
+            </lg>
+            <trailer>The End of the Second Book.</trailer>
+         </div>
+         <div n="3" type="book">
+            <pb n="20" facs="tcp:59588:15"/>
+            <head>The Third Book.</head>
+            <lg>
+               <l>AS in <hi>Eridanus</hi> clear Silver ſtream</l>
+               <l>(<hi>Eridanus</hi> the Muſes grateful Theme)</l>
+               <l>The Swan when he his Death approaching ſees,</l>
+               <l>Sings his own Dirge and funeral Obſequies:</l>
+               <l>So with an Hymn, Jeſus his Entrance made</l>
+               <l>Into the Garden, where he was betray'd,</l>
+               <l>The Spheres ſtopt their's, to liſten to his Song;</l>
+               <l>The Heavens came down, the Clouds and Tempeſt throng,</l>
+               <l>The Waves ſtood ſtill, and the Dumb waters lay,</l>
+               <l>Stretcht on their Banks to hear his Harmony,</l>
+               <l>The Stones were taught to melt at his ſoft Sheins,</l>
+               <l>Each Tree an awful Rapture entertains:</l>
+               <l>A real <hi>Orpheus</hi> (not ſuch as the Mind,</l>
+               <l>Of dreaming ſuperſtitious Poets feign'd.)</l>
+            </lg>
+            <lg>
+               <l>The dewy Night had with her gloomy Shade</l>
+               <l>Mantel'd the World, Mortals in ſlumbers laid;</l>
+               <l>Jeſus the while a broad his Eye-lids kept;</l>
+               <l>(The Maſter watcht whilſt the Diſciples ſlept.)</l>
+            </lg>
+            <lg>
+               <l>Who can deſcribe the Horrours of that Cup,</l>
+               <l>which was with Dregs of deadly Wine fill'd up?</l>
+               <l>The ſtrong repeated Prayers, the fervent Cries,</l>
+               <l>The ſad Affrightments, and fierce Agonies,</l>
+               <l>The torments which his wounded Soul oppreſt,</l>
+               <l>Whilſt Clods of purple Gore drop'd from his Breaſt?</l>
+               <l>The Burthen of God's Anger lay,</l>
+               <l>The Manhood wiſh'd the Cup might paſs away,</l>
+               <l>But the Divinity, God's only Son,</l>
+               <l>Cried thine (O Father) not my Will be done.</l>
+            </lg>
+            <lg>
+               <l>See, ſee, my Soul, thy Eye of Faith caſt back,</l>
+               <l>And a view of thy Saviour's Sufferings take,</l>
+               <pb n="21" facs="tcp:59588:15"/>
+               <l>Behold the Traitor kiſſes and betrays,</l>
+               <l>(Falſe Love's more hurtful than true Injuries)</l>
+               <l>(A kiſs more deadly than the Breath which flows</l>
+               <l>From Baſilisks, or Vipers hiſſing Jaws.)</l>
+            </lg>
+            <lg>
+               <l>Perfidious <hi>Peter,</hi> (he who boaſting ſaid</l>
+               <l>Should all deny, yet i'll not be afraid</l>
+               <l>To own my Lord;) forſook him now, and fled;</l>
+               <l>The reſt (like Sheep when Wolves purſue 'em,) ran,</l>
+               <l>No wonder ſince they ſaw their Keeper ta'n:</l>
+               <l>Inſtead of Oyl (the Sanctuary Oyl Divine)</l>
+               <l>To make his Head and Face with gladneſs ſhine:</l>
+               <l>The naſty Spittle of the Raſcals throng,</l>
+               <l>Was on his Head and Face profanely flung.</l>
+               <l>For a Gold Scepter (Emblem of Command)</l>
+               <l>A Reed contemptuouſly put in his hand;</l>
+               <l>No other Crown than made of Spiny thorns,</l>
+               <l>His bleeding Temples, and gor'd Locks adorns,</l>
+               <l>For Angels Hymns, the Prieſts blaſphemous ſcorns.</l>
+               <l>The headlong Rabble partial <hi>Pilate</hi> ſway,</l>
+               <l>Man's Murtherer ſave, Man's Saviour ſlay;</l>
+               <l>It was but now their ſounding Clamours ſung</l>
+               <l>Hoſannah's (neighbouring Rocks Hoſannah's rung)</l>
+               <l>The Anthem alter'd too, away, away,</l>
+               <l>And nothing can be heard but Crucifie,</l>
+               <l>Before the Name of King they to him gave,</l>
+               <l>But now no King but <hi>Caeſar</hi> they will have:</l>
+               <l>Before they gather'd heaps of blooming <hi>May,</hi>
+               </l>
+               <l>And ſtrowed with Boughs and Bloſſoms all his way:</l>
+               <l>Now of a branchleſs Trunck a Croſs they Frame,</l>
+               <l>(A Croſs denoting torment Curſe and Shame)</l>
+               <l>Lately they at his Feet had caſt their Cloaths,</l>
+               <l>But now they ſtrip him, (his torments to expoſe;)</l>
+               <l>His tender Back the Lictors Whips had rent,</l>
+               <l>His Hands and Feet with piercing Nails were pent;</l>
+               <l>A barbarous Spear unlockt his precious Side,</l>
+               <l>Whence the rich Sacramental ſtreams did glide:</l>
+               <l>The Anguiſh of his Thirſt did ſo prevail,</l>
+               <l>He took down draughts of Vinegar and Gall,</l>
+               <pb n="22" facs="tcp:59588:16"/>
+               <l>And (as if they deſign'd to diſ-entrail,</l>
+               <l>His very Soul) his Enemies revile,</l>
+               <l>They ſhake their Heads, and with a Scoffing-nod</l>
+               <l>Cry'd come down Saviour, come down Son of God:</l>
+               <l>He bowed his Head (as if he had obey'd</l>
+               <l>Their Challenge,) all was finiſh'd, and he dyed.</l>
+               <l>Whereat the Heavens were ſoon bereft of Light;</l>
+               <l>Leſt it ſhou'd ſee ſo Tragical a Sight,</l>
+               <l>As all the Stars cou'd not well celebrate</l>
+               <l>His Birth, but God a new one did Create:</l>
+               <l>So now ſtruck with Affrightments, old and new,</l>
+               <l>Under the ſhelter of thick Clouds withdrew,</l>
+               <l>The thicken'd Air hung all in horrid Black;</l>
+               <l>And <hi>Jerdan</hi> into Inundations brake,</l>
+               <l>The conſcious Earth with ſick Convulſions ſhook,</l>
+               <l>Rocks cleft in twain (ſuch Griefs unus'd to brook)</l>
+               <l>Bodies of Saints rouz'd up, their Graves forſook.</l>
+            </lg>
+            <lg>
+               <l>The ſad Centurion and the reſt allowed</l>
+               <l>(Smiting their Breaſts) the Man was ſurely good:</l>
+               <l>O Bleſſed Virgin, what high Angels Art</l>
+               <l>Can count thy Tears, or ſing thy ſecret ſmart?</l>
+               <l>When every Wound through him, went through thy Heart?</l>
+            </lg>
+            <lg>
+               <l>The Graceleſs <hi>Judas</hi> long had been purſued</l>
+               <l>By a fell Blood-hound, yelling after Blood:</l>
+               <l>His Conſcience, which ſtill ran and never ſtaid,</l>
+               <l>Till the Betrayer juſtly it betray'd.</l>
+               <l>Oft chang'd he place, but cou'd not change his Mind,</l>
+               <l>He flys at once to loſe himſelf, and find;</l>
+               <l>The Whips of Scorpions, and dire howls he hears,</l>
+               <l>Whilſt Hell with all it's fiery Surge appears,</l>
+               <l>His wretched Soul ſeems wrapt in burning Bands,</l>
+               <l>Reckoning a thouſand years, yet not there ſtands,</l>
+               <l>But tells to them the Stars, and heaps of Sands:</l>
+               <l>And now the Stars are told, and Sands are run,</l>
+               <l>And all thoſe thouſand thouſand Myriads done,</l>
+               <l>His Puniſhmet is ſtill but now begun.</l>
+            </lg>
+            <lg>
+               <l>With that a fury with her nimble hand</l>
+               <l>Toſs'd round his thoughtful Heart, a sulphur'd Brand,</l>
+               <pb n="23" facs="tcp:59588:16"/>
+               <l>Which from his Breaſt all Joy and Comfort drove,</l>
+               <l>And all the hopes of Pardon quite remov'd;</l>
+               <l>Such hideous Gorgons preſt him, ſuch dire Forms,</l>
+               <l>Not able to endure their Threats and Storms,</l>
+               <l>Fly, fly, he Crys, thy ſelf, what e'er thou art,</l>
+               <l>A monſtrous Fiend become in every part,</l>
+               <l>Having the Price of innocent Blood reſtor'd,</l>
+               <l>He flys for eaſe unto the fatal Cord.</l>
+               <l>Thus without hopes of funeral Obſequies,</l>
+               <l>(His own Revenger) the grand Traytor dies:</l>
+               <l>Eternal wrath ſtill following cloſe his Feet,</l>
+               <l>Burnt after him to the infernal Pit.</l>
+            </lg>
+            <lg>
+               <l>Now the third Morn had gliſter'd from her Bower,</l>
+               <l>And the bright Eaſt with Roſes ſeem'd to Flower,</l>
+               <l>The early Sun came briskly dancing out,</l>
+               <l>Grown inſolent with Joy, the Heavens ſhout;</l>
+               <l>The wanton Spring forgetful now to weep,</l>
+               <l>Starts forth as one awakned out of ſleep;</l>
+               <l>The Buſhes were with Violets purpled o'er,</l>
+               <l>The Woods and Fields caſt off their Winter hoar,</l>
+               <l>And the gay Trees put on their green Attire,</l>
+               <l>Whilſt 'mongſt their infant Leaves, the Birds compere;</l>
+               <l>Such was the Triumph, ſuch the mighty Cheer,</l>
+               <l>As if the World anew created were.</l>
+            </lg>
+            <lg>
+               <l>Say Earth, why art thou ſo with verdure ſpread;</l>
+               <l>(As if ſome new found Bridegroom thou woud'ſt wed?)</l>
+               <l>Ye Trees, why on a ſudden deck't and Gay</l>
+               <l>Like gaudy Nymyhs on <hi>Flora</hi>'s Holyday?</l>
+               <l>Anſwer me <hi>Jordan,</hi> why thy crooked Tide,</l>
+               <l>Over the Banks doth from his Channel ſlide?</l>
+               <l>Why art thou driven back, and cut in two;</l>
+               <l>As when the Hebrews through thy depths did go?</l>
+               <l>The Aegyptians ſaw, and trembled at the Sight,</l>
+               <l>(For wondrous was the way, and wondrous was the Flight)</l>
+               <l>And you ſweet Birds that ſhaded from the Ray,</l>
+               <l>Sit Carolling and Chirping grief away!</l>
+               <l>Tell me ſweet Birds, what is't you fain would ſay?</l>
+               <pb n="24" facs="tcp:59588:17"/>
+               <l>But ah! I need not Ask, 'tis ſurely ſo,</l>
+               <l>You to our Saviours Triumphs homage owe,</l>
+               <l>You all await, you all your Duties ſhew,</l>
+               <l>To celebrate his Worth, and Praiſes due.</l>
+            </lg>
+            <lg>
+               <l>Hark, how the Floods clap their exalted hands,</l>
+               <l>The Valleys ſing, each Field on Tiptoe ſtands,</l>
+               <l>The skipping Mountains in Choranto dance,</l>
+               <l>And their Heads higher than before advance;</l>
+               <l>Lift up your Heads ye everlaſting Gates,</l>
+               <l>Diſplay your Glories ye Syderial States,</l>
+               <l>May all your Chryſtal Doors be open ſeen;</l>
+               <l>And let the King of Glory enter in.</l>
+               <l>'Tis done! the Patriarchs leap out with ſpeed,</l>
+               <l>To ſee the Powers of Hell in Triumph led,</l>
+               <l>Soft Olive-leaves they bore to Crown his Head,</l>
+               <l>Which prickt with Thorns had purpled Rivers ſhed,</l>
+               <l>After them flew the Prophets brightly ſtol'd,</l>
+               <l>Playing on Harps, (on Harps whoſe ſtrings were Gold;)</l>
+               <l>To which ten thouſand Saints together ſung,</l>
+               <l>And all the Heavens with Hallelujah's rung,</l>
+               <l>The Cherubims, and the Seraphick crowd,</l>
+               <l>Holy, holy, holy Cry'd aloud,</l>
+               <l>Down from their Thrones the Dominations flew,</l>
+               <l>And at his Feet their Crowns and Scepters threw,</l>
+               <l>Nor can the Martyrs wounds them ſtay behind;</l>
+               <l>Leaving their Heaven, their new-come Heaven to find,</l>
+               <l>Met and attended by this Company,</l>
+               <l>The Lamb was led into the Courts of Day.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:59588:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
